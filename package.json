@@ -1,13 +1,13 @@
 {
   "name": "moebel-material-ui-superselectfield",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "original Material-UI's SelectField component enhanced with autocompletion, multiselection, custom renderers, and infinite loading.",
   "private": false,
   "author": "Raphaël Morineau <raphael.morineau@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sharlaan/material-ui-superselectfield.git"
+    "url": "https://github.com/moebel-de/material-ui-superselectfield.git"
   },
   "homepage": "https://sharlaan.github.io/material-ui-superselectfield",
   "engines": {
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-eslint": "^8.0.1",
+    "babel-eslint": "^8.2.2",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.10",
@@ -27,9 +27,15 @@
     "babel-preset-env": "^1.6.1",
     "enzyme": "^3.1.1",
     "enzyme-adapter-react-16": "^1.0.4",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-standard": "^3.0.1",
     "flag-icon-css": "^2.8.0",
     "gh-pages": "^1.0.0",
     "material-ui": "^0.19.4",
+    "prettier": "^1.11.0",
+    "prettier-eslint": "^8.8.1",
     "prop-types": "^15.6.0",
     "react": ">= 15 < 17",
     "react-addons-test-utils": ">= 15 < 17",
